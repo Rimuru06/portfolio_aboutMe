@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h3 {
+    color: white;
+    font-family: monospace;
+}
+
+.nome{
+    font-weight: bold;
+}
