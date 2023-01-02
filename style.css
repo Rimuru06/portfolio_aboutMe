@@ -14,4 +14,8 @@ h3 {
 
 .nome{
     font-weight: bold;
+    background-color: white;
+    /*Ajustar padding*/
+    padding: auto;
+    color: black;
 }
