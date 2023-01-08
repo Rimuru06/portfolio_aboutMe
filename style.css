@@ -12,10 +12,11 @@ h3 {
     font-family: monospace;
 }
 
+.backNome{
+    background-color: white;
+}
+
 .nome{
     font-weight: bold;
-    background-color: white;
-    /*Ajustar padding*/
-    padding: auto;
     color: black;
 }
